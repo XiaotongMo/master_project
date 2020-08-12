@@ -10,5 +10,5 @@ I regard SEM and ISM as the same.
 - ISM is for inpreting structral modeling.
 
 
-## how to ease your research?  [experience](/experience/)
+## how to ease my research?  [experience](/experience/)
 ### [Zotero - document manager](/experience/zotero.md)
