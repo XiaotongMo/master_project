@@ -4,6 +4,8 @@ Knowledge needed involves comprehensive evaluation methods, structural equation 
 I put my ideas in OneNote and technical knowledge in github to assist myself and people like me while using these methods.
 
 ## methods
-### SEM
-More details in the folder *sem*
-https://github.com/karwamey/master_project/tree/master/methods/sem
+### [SEM](/methods/sem/)
+structual equation modeling
+
+## experience
+### [Zotero - document manager](/experience/zotero.md)
