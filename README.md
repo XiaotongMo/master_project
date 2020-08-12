@@ -3,9 +3,12 @@ The topic of my research is the risk assessment of malaria in China during the m
 Knowledge needed involves comprehensive evaluation methods, structural equation modelling(SEM), analytic hierarchy process(AHP) and so on.
 I put my ideas in OneNote and technical knowledge in github to assist myself and people like me while using these methods.
 
-## methods
-### [SEM](/methods/sem/)
-structual equation modeling
+## how to assess risk?   [methods](/methods/)
+### SEM, structual equation modeling
+I regard SEM and ISM as the same. 
+- SEM is an abbreviation for structral equation modeling.
+- ISM is for inpreting structral modeling.
 
-## experience
+
+## how to ease your research?  [experience](/experience/)
 ### [Zotero - document manager](/experience/zotero.md)
