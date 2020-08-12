@@ -10,9 +10,20 @@ Therefore, Z is favorable for me.
 
 
 ## Here is to record some tips of usages of Zotero!
+### Part I: What is in Zotero PC client
+Quick!
+
+Easy to understand.
+
+Convenient to back up in a 
+
+### Part II: Zotero extension in the browser
+how the extension eases experience of many processes of PC client software.
+
 
 ## Zotero extension/add-on in Chrome/Firefox browser
 U have to install it. Really helpful!
 
-## (for managing Chinese papers 给中文文献依赖者) 请导入CNKI、万方、百度学术的translator（“题录识别器”？）
+## (给中文文献依赖者) 请导入CNKI、万方、百度学术的translator
+（for managing Chinese papers) Please import translators called CNKI, Wanfang Data, and Baidu Xueshu respectively. Translators may be called as “题录识别器”？
 If U rely on Chinese papers to finish your work, these three translators are essential, very essential.
