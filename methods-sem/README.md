@@ -1,3 +1,7 @@
+
+## SEM software
+### Simplis syntax
+
 **INPUT PART**
 ```
 OBSERVED VARIABLES
